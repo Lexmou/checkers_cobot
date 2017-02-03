@@ -6,6 +6,7 @@ Chaque fichier est fait pour être appelé depuis un environnement ROS. Ils peuv
 
 - debug : informations de base
 - debug full : informations complémentaires
+
 ## Fichiers Tests
 - Le fichier test_gripper est relatif à la pinge Schunk WSG-50 lié au package wsg50-ros-pkg
 - Le fichier test_kinematics est un test de reprise de la cinématique du module ur_kin_py dans sa version la plus récente
